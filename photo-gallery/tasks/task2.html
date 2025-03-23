@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Display Name</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+
+        .word {
+            display: flex;
+            gap: 10px;
+        }
+
+        .letter {
+            font-size: 50px;
+            font-weight: bold;
+            cursor: pointer;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+        .letter:hover {
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+
+        
+        .letter.k { color: #FF5733; } 
+        .letter.i { color: #33FF57; } 
+        .letter.l { color: #3357FF; } 
+        .letter.a { color: #FF33A1; } 
+        .letter.r { color: #FFD133; } 
+        .letter.u { color: #33FFF5; } 
+    </style>
+</head>
+<body>
+    <div class="word">
+        <span class="letter k" data-hover="M">A</span>
+        <span class="letter i" data-hover="A">V</span>
+        <span class="letter l" data-hover="H">U</span>
+        <span class="letter a" data-hover="L">L</span>
+        <span class="letter r" data-hover="O">A</span>
+    </div>
+</body>
+</html>
