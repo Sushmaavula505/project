@@ -1,75 +1,75 @@
 [
     {
         "title": "Basic HTML styling",
-        "file": "photo-gallery/tasks/task1.html"
+        "file": "tasks/task1.html"
     },
     {
         "title":"CSS HOVER",
-        "file":"photo-gallery/tasks/task2.html"
+        "file":"tasks/task2.html"
     },
     {
         "title":"Welcome to JS",
-        "file":"photo-gallery/tasks/task3.html"
+        "file":"tasks/task3.html"
     },
     {
         "title":"Calculator with JS",
-        "file":"photo-gallery/tasks/task6.html"
+        "file":"tasks/task6.html"
     },
     {
         "title":"Git hub integration",
-        "file":"photo-gallery/tasks/task7.html"
+        "file":"tasks/task7.html"
     },
     {
         "title":"Concole Output",
-        "file":"photo-gallery/tasks/task8.html"
+        "file":"tasks/task8.html"
     },
     {
         "title":"String operations",
-        "file":"photo-gallery/tasks/task9.html"
+        "file":"tasks/task9.html"
     },
     {
         "title":"Conditions",
-        "file":"photo-gallery/tasks/task10.html"
+        "file":"tasks/task10.html"
     },
     {
         "title":"Call stack with Array",
-        "file":"photo-gallery/tasks/taskt11.html"
+        "file":"tasks/taskt11.html"
     },
     {
         "title":"Star with loops",
-        "file":"photo-gallery/tasks/task12.html"
+        "file":"tasks/task12.html"
     },
     {
         "title":"Class Work",
-        "file":"photo-gallery/tasks/task13.html"
+        "file":"tasks/task13.html"
     },
     {
         "title":"Class Work-2",
-        "file":"photo-gallery/tasks/task14.html"
+        "file":"tasks/task14.html"
     },
     {
         "title":"Class Works-objects",
-        "file":"photo-gallery/tasks/task15.html"
+        "file":"tasks/task15.html"
     },
     {
         "title":"Class Work-functions",
-        "file":"photo-gallery/tasks/task16.html"
+        "file":"tasks/task16.html"
     },
     {
         "title":"Class Work-Boot strap",
-        "file":"photo-gallery/tasks/task17.html"
+        "file":"tasks/task17.html"
     },
     {
         "title":"Class Work-Boot strap-1",
-        "file":"photo-gallery/tasks/task17-1.html"
+        "file":"tasks/task17-1.html"
     },
     {
         "title":"Class Work-Boot strap-2",
-        "file":"photo-gallery/tasks/tassk17-2.html"
+        "file":"tasks/tassk17-2.html"
     },
     {
         "title": "Class Work - JSON",
-        "file": "photo-gallery/tasks/task123.html"
+        "file": "tasks/task123.html"
     }
     
 ]
