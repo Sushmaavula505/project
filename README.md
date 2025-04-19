@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Project Gallery</title>
 <!--     <link rel="stylesheet" href="index.css"> -->
-    <script>
+    <style>
         
     body {
     font-family: Arial, sans-serif;
@@ -67,7 +67,7 @@
     border: none;
     }
     
-    </script>
+    </style>
 </head>
 <body>
     <div class="container">
