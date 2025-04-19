@@ -57,16 +57,17 @@
     }
     
     .content {
-    width: 75%;
-    padding: 20px;
+      width: 75%;
+      padding: 20px;
+      background: white;
     }
     
     iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-  background: white;
-}
+      width: 100%;
+      height: 100%;
+      border: none;
+      background: white;
+    }
 
     
     </style>
